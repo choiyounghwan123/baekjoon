@@ -1,9 +1,5 @@
 
 #백준 문제 풀이 목록
-### 🚀 .github
-| 문제번호 | 링크 |
-| ----- | ----- |
-|workflows|[링크](./.github/workflows/python-package.yml)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |
