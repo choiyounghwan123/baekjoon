@@ -1,5 +1,5 @@
-import sys
+# 10818. 최소, 최대
 
-N = int(sys.stdin.readline())
-nums = list(map(int,sys.stdin.readline().split()))
+N = int(input())
+nums = list(map(int,input().split()))
 print(min(nums),max(nums))
