@@ -104,6 +104,10 @@
 |9046. 복호화|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9046.%E2%80%85%EB%B3%B5%ED%98%B8%ED%99%94/README.md)|
 |9086. 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md)|
 |9498. 시험 성적|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9498.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81/README.md)|
+### 🚀 Diamond
+| 문제번호 | 링크 |
+| ----- | ----- |
+|18185. 라면 사기 （Small）|[링크](./%EB%B0%B1%EC%A4%80/Diamond/18185.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89/%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89.py)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
 | ----- | ----- |
